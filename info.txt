@@ -1,0 +1,7 @@
+https://sketchfab.com/search?q=caracter+free&type=models
+
+1ere étape: 
+- Modélisation environnement 
+- Choix du character (Déplacement, animation, saut etc...)
+- Déplacement sur un quad (gérer la physique etc)
+Pointez sur un message pour l'épingler
